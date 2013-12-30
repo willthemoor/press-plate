@@ -16,3 +16,6 @@
 [submodule "app/plugins/debug-bar-extender"]
 	path = app/plugins/debug-bar-extender
 	url = git@github.com:wp-plugins/debug-bar-extender.git
+[submodule "app/plugins/force-regenerate-thumbnails"]
+	path = app/plugins/force-regenerate-thumbnails
+	url = git@github.com:wp-plugins/force-regenerate-thumbnails.git

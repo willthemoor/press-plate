@@ -4,3 +4,6 @@
 [submodule "app/themes/roots"]
 	path = app/themes/roots
 	url = https://github.com/willthemoor/roots
+[submodule "app/plugins/advanced-custom-fields"]
+	path = app/plugins/advanced-custom-fields
+	url = git@github.com:elliotcondon/acf.git

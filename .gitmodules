@@ -13,3 +13,6 @@
 [submodule "app/plugins/debug-bar"]
 	path = app/plugins/debug-bar
 	url = git@github.com:wp-plugins/debug-bar.git
+[submodule "app/plugins/debug-bar-extender"]
+	path = app/plugins/debug-bar-extender
+	url = git@github.com:wp-plugins/debug-bar-extender.git

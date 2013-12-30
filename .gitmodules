@@ -19,3 +19,6 @@
 [submodule "app/plugins/force-regenerate-thumbnails"]
 	path = app/plugins/force-regenerate-thumbnails
 	url = git@github.com:wp-plugins/force-regenerate-thumbnails.git
+[submodule "app/plugins/theme-check"]
+	path = app/plugins/theme-check
+	url = git@github.com:wp-plugins/theme-check.git

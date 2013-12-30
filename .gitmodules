@@ -10,3 +10,6 @@
 [submodule "app/plugins/user-switching"]
 	path = app/plugins/user-switching
 	url = git@github.com:johnbillion/user-switching.git
+[submodule "app/plugins/debug-bar"]
+	path = app/plugins/debug-bar
+	url = git@github.com:wp-plugins/debug-bar.git

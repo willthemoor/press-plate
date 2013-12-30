@@ -7,3 +7,6 @@
 [submodule "app/plugins/advanced-custom-fields"]
 	path = app/plugins/advanced-custom-fields
 	url = git@github.com:elliotcondon/acf.git
+[submodule "app/plugins/user-switching"]
+	path = app/plugins/user-switching
+	url = git@github.com:johnbillion/user-switching.git

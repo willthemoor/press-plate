@@ -40,11 +40,18 @@ A WordPress Boilerplate to get going quickly.
 
   More on Grunt, Roots and Less 9: http://roots.io/using-grunt-for-wordpress-theme-development/
 
+## Updating
+### Update WordPress
+1. `$ cd /path/to/wordpress`
+2. `$ git fetch -t` to get the most recent tags. Each release version of Wordpress is tagged.
+3. `$ git tag` to see the list
+4. `$ git checkout 3.8.1` or whatever the most recent tag is
+5. `$ cd ..` Need to get out of the Wordpress directory for the next steps or you will melt poor little git's brain.
+6. `$ git add wordpress` to stage the update
+7. `$ git commit -m "Update Wordpress to 3.8.1"`
 
-### Updating Wordpress or submodule plugins
-1. `$ cd wordress`
-2. Pull down tags with `$ git fetch --tags`
-3. Find the most recent tag (tagged WP releases generally follow published releases on wordpress.org)
-4. `$ git checkout 3.8` where 3.8 is the most recent
+### Update Plugins
+You can either follow the same steps as **Update WordPress** or try: `$ git submodule foreach git pull origin master`
+
 
 

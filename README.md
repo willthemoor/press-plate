@@ -1,9 +1,12 @@
 # PressPlate
-## An WordPress Boilerplate
+## A WordPress Boilerplate
 
 A WordPress Boilerplate to get going quickly. 
 
-@TODO This should be using [Composer](http://roots.io/using-composer-with-wordpress/) instead of git submodules.
+@TODO Use [Composer](http://roots.io/using-composer-with-wordpress/) instead of git submodules?
+@TODO bash scripts or fab file for activating plugins
+@TOOO update wp-config from live site inlcluding ENV stuff
+@TODO update htaccess to protect git folders
 
 # Notes:
 * WordPress itself is a submodule

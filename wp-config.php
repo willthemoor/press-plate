@@ -23,7 +23,8 @@
 	define('WPLANG',					''     ); // Defaults to English
 	define('WP_MEMORY_LIMIT',			'256M' ); // Greedy
 	define('AUTOMATIC_UPDATER_DISABLED', true  );	
-
+	define('DB_CHARSET', 'utf8');
+        	
 
 
 /*
